@@ -1,0 +1,16 @@
+h1 {
+    background-color: pink;
+}
+
+#container {
+    display: flex;
+    background-color: red;  
+}
+
+#container > div {
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 2px solid blueviolet;
+}
